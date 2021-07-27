@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 ### This is me and my codes.
 - I'm a Security Researcher and Penetration tester 👨🏻‍💻 
 - Working at Deriv/Binary as a Security Engineer 🔭 
-- Part-time bug bounty hunter with HackerOne 🌱
+- Part-time bug bounty hunter at HackerOne 🌱
 - Developing some side security projects and automating stuff ⚡ 
 - How to reach me: alifathi@wearehackerone.com 📫
